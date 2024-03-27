@@ -1,5 +1,5 @@
-### Hi there 👋! I'm Claudio 😄!
-|  |  |
+
+|  ### Hi there 👋! I'm Claudio 😄!  |
 |-----:|-----------|
 |    Test| ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)|
 
