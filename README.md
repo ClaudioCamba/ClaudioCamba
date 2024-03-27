@@ -2,10 +2,12 @@
 
 Software Developer with a passion for using code to bring diverse experiences to life. I strive to employ best practices in code, to provide clean and efficient experiences to end-users. Nothing compares to the feeling of creating something from nothing! Aside from improving my coding skills, I also enjoy playing video games, watching movies/series, and exercising.
 
+![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact) 
 
-| --- | --- |
-| ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact) | Testing |
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
