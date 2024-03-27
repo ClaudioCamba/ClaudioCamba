@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **ClaudioCamba/ClaudioCamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
