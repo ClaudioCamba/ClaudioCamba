@@ -5,8 +5,11 @@ Software Developer with a passion for using code to bring diverse experiences to
 ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact) 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |  |
+
 
 
 
