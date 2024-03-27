@@ -1,7 +1,7 @@
 ### Hi there 👋! I'm Claudio 😄! 
 |      |           |
 |-----:|-----------|
-|    Test| ![ClaudioCamba's ](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)|
+|Software Developer with a passion for using code to bring diverse experiences to life. Having worked in digital marketing agencies, I have experience in agile development and delivery-focused processes. My experience ranges from static website creation to conducting A/B Experimentations on dynamic e-commerce websites. I seek challenging opportunities to further leverage my technical, analytical and problem-solving abilities.| ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)|
 
 
 
