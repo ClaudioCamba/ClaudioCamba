@@ -27,7 +27,7 @@ Software Developer with a passion for using code to bring diverse experiences to
 
 | ✨ Repository Stats | 📫 How to reach me |
 | :------------- | :------------- |
-| ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)   | <ul><li>https://claudiocamba.com/</li><li>https://www.linkedin.com/in/claudiocamba/ </li></ul> |
+| ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)   | <ul><li>https://claudiocamba.com/</li><li>https://www.linkedin.com/in/claudiocamba/ </li><li>claudiocamba1@gmail.com</li></ul> |
 
 
 <!--
