@@ -1,11 +1,11 @@
 ### Hi there 👋
-![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=onedark&show_icons=true&hide_border=true&layout=compact)">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=onedark&show_icons=true&hide_border=true&layout=compact)">
-</picture>
+| Rank | Languages |           |
+|-----:|-----------|-----------|
+|     1| JavaScript|           |
+|     2| Python    |       ![ClaudioCamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCamba&theme=onedark&show_icons=true&hide_border=true&layout=compact)    |
+|     3| SQL       |           |
+
 <!--
 **ClaudioCamba/ClaudioCamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
