@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Claudio!  
+# 👋 Hello, I'm Claudio!  
 
 Software Developer with a passion for using code to bring diverse experiences to life. I strive to employ best practices in code, to provide clean and efficient experiences to end-users. Nothing compares to the feeling of creating something from nothing! Aside from improving my coding skills, I also enjoy playing video games, watching movies/series, and exercising.
 
